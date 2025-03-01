@@ -64,24 +64,6 @@ A collection of practical examples demonstrating the power and flexibility of Py
 
 - Python 3.7 or higher (asyncio syntax is most elegant in Python 3.7+)
 
-### Installation
-
-No external dependencies are required as asyncio is included in the Python standard library.
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/asyncio-examples.git
-cd asyncio-examples
-```
-
-### Running Examples
-
-Each example can be run directly:
-
-```bash
-python example_1.py
-```
-
 ## When to Use Asyncio
 
 Asyncio shines in scenarios involving:
